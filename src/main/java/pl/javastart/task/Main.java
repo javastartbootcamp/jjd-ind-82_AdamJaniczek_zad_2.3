@@ -19,6 +19,5 @@ public class Main {
         System.out.println("Cz zawiera alkohol: " + mojito.containsAlcohol);
         System.out.printf("Składniki: \n%s \n%s \n%s", mojito.firstIngredient.name, mojito.secondIngredient.name, mojito.thirdIngredient.name);
         System.out.println("\nPojemność: " + capacity + " ml");
-
     }
 }
